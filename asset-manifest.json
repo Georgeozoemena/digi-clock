@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digi-clock/static/css/main.0e422157.css",
+    "main.js": "/digi-clock/static/js/main.e5776915.js",
+    "static/js/787.a526e8cd.chunk.js": "/digi-clock/static/js/787.a526e8cd.chunk.js",
+    "static/media/daniella script.ttf": "/digi-clock/static/media/daniella script.ed39843a7426096c5d60.ttf",
+    "index.html": "/digi-clock/index.html",
+    "main.0e422157.css.map": "/digi-clock/static/css/main.0e422157.css.map",
+    "main.e5776915.js.map": "/digi-clock/static/js/main.e5776915.js.map",
+    "787.a526e8cd.chunk.js.map": "/digi-clock/static/js/787.a526e8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e422157.css",
+    "static/js/main.e5776915.js"
+  ]
+}
